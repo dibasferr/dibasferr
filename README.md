@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Pedro Bras Ferreira
 
-**`Estudante de Engenharia Informática`**
+**`Formado em Engenharia Informática`**
 
 <p align="left">
     <a href="https://github.com/dibasferr?tab=repositories&sort=stargazers">
